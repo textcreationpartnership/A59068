@@ -1,0 +1,362 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Threno-Maria a rapsodicall essay on the death of our late gratious soveraign Queen Mary of ever-blessed memory / by Mr. Si. Segar.</title>
+            <author>Segar, Simon, fl. 1656-1712.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59068</idno>
+            <idno type="STC">Wing S2413</idno>
+            <idno type="STC">ESTC R32639</idno>
+            <idno type="EEBO-CITATION">12739630</idno>
+            <idno type="OCLC">ocm 12739630</idno>
+            <idno type="VID">93089</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59068)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93089)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1536:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Threno-Maria a rapsodicall essay on the death of our late gratious soveraign Queen Mary of ever-blessed memory / by Mr. Si. Segar.</title>
+                  <author>Segar, Simon, fl. 1656-1712.</author>
+               </titleStmt>
+               <extent>11 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Leving ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in the Harvard University Library</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mary --  II, --  Queen of England, 1662-1694 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93089:1"/>
+            <!-- PDF PAGE 111 -->
+            <pb facs="tcp:93089:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 111 -->
+            <p>Threno-Maria.</p>
+            <p>A Rapſodicall Eſſay ON THE DEATH <hi>Of our late Gratious Soveraign</hi> QUEEN MARY Of Ever-Bleſſed Memory.</p>
+            <q>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</l>
+               <bibl>Theoc.</bibl>
+            </q>
+            <p>By Mr. <hi>Si. SEGAR.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Thomas Leving,</hi> at <hi>Gray</hi>'s-<hi>Inn-Gate,</hi> next the Walkes. 1695.</p>
+            <pb facs="tcp:93089:2"/>
+            <!-- PDF PAGE 112 -->
+            <pb facs="tcp:93089:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 112 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:93089:3"/>
+            <!-- PDF PAGE 113 -->
+            <pb n="3" facs="tcp:93089:3"/>
+            <!-- PDF PAGE 113 -->
+            <head>Threno-Maria. A POEM on the DEATH of Her SACRED MAJESTY THE LATE GRATIOUS QUEEN MARY, &amp;c.</head>
+            <lg>
+               <l>PLung'd ore in unexhauſted floods of Brine,</l>
+               <l>Not ſuch, which round ſad <hi>Albions</hi> Empire twine</l>
+               <l>Their ſurly Waves: Nor in ſuch Streams that ſwell,</l>
+               <l>The hollow Veins of the <hi>Pierian</hi> Hill:</l>
+               <l>But in full Cataracts of that Extent,</l>
+               <l>The Eyes Alymbick never yet could Vent;</l>
+               <l>
+                  <pb n="4" facs="tcp:93089:4"/>
+                  <!-- PDF PAGE 114 -->
+In ſuch vaſt Deluges of Tears, whoſe ſtores</l>
+               <l>And Crowding Conflux ſtopp'd the Optick Pores;</l>
+               <lg>
+                  <l>My ſtrugling Muſe at laſt has burſt my Brain,</l>
+                  <l>And forces me a tributary Swain,</l>
+                  <l>To pay the Homage of a Dolefull Strain:</l>
+               </lg>
+               <l>To Mourn the Royal ſhades contracted date,</l>
+               <l>To Mourn the great <hi>Maria's</hi> hapleſs fate:</l>
+               <l>That complex perfect All <hi>Maria;</hi> who</l>
+               <l>When Stubborn Death had ſtruck the diſmall Blow,</l>
+               <l>Gaurded by glorious <hi>Seraphs,</hi> Slumber'd hence</l>
+               <l>Unto the Thrones of bleſt Omnipotence;</l>
+               <l>Whilſt the Extravagant Caeleſtial Choire,</l>
+               <l>Weleom'd her Advent with tranſported Lyres.</l>
+            </lg>
+            <lg>
+               <l>Oh! what ſweet Hymns, what Anthems did they frame?</l>
+               <l>What <hi>Halleluja</hi>'s tun'd were to her Name?</l>
+               <l>The Notes ſo charm'd, thro' uſe the buſie Throng,</l>
+               <l>Forgot the Accents of their Former Song;</l>
+               <l>
+                  <pb n="5" facs="tcp:93089:4"/>
+                  <!-- PDF PAGE 114 -->
+That when their Wills attempted to rehearſe</l>
+               <l>Their dread Creator's facts in proper Verſe;</l>
+               <l>The ſilent ſtrings flagg'd frighted at the touch,</l>
+               <l>Nor could Angelick Art reduce them ſuch;</l>
+               <l>
+                  <hi>Maria</hi> ſtill, no other Sacred ſound,</l>
+               <l>Would ſhake an Ela the Horriſon round.</l>
+            </lg>
+            <lg>
+               <l>But where am I? Cloſe up my Muſe again.</l>
+               <l>The abrupt Numbers of a Mortal Pen</l>
+               <l>(Tho' ne're ſo pure, extracted or calcin'd,</l>
+               <l>Heaven-thought, and ſpun by an inſpired mind)</l>
+               <lg>
+                  <l>Can her bright <hi>Zenith</hi> blazon, or diſplay</l>
+                  <l>The dazling Luſtre, where her narrow Ray</l>
+                  <l>Creates one part o'th Everlaſting Day.</l>
+               </lg>
+               <l>Cruſh therefore that Effort, and back retire,</l>
+               <l>Leaſt by to near Approach your Bard expire:</l>
+               <l>Our Sacrilegious Fancy muſt not pry,</l>
+               <l>Nor track the Steps of Immortality:</l>
+            </lg>
+            <lg>
+               <pb n="6" facs="tcp:93089:5"/>
+               <!-- PDF PAGE 115 -->
+               <l>Come, leave the Empyrean Chambers, Come,</l>
+               <l>Center your flights within the Circle Home:</l>
+               <lg>
+                  <l>Let <hi>Albion,</hi> Let <hi>Albions</hi> wretched Iſle,</l>
+                  <l>More curſt than our prime Parents barren ſoil,</l>
+                  <l>Exhale your Sorrow to bemoan a while.</l>
+               </lg>
+               <l>Or let your Howls in ſavage Features tell,</l>
+               <l>Th' immeaſur'd Loſs, when great <hi>Maria</hi> Fell;</l>
+               <l>The heaps of Tortures, the Convulſive greif,</l>
+               <l>The Horror that inwrapps our ſunk relief,</l>
+               <l>Our Agonies, Our Hell that ſtabb'd ſo late,</l>
+               <l>The throbbing Vitalls of our bleeding State.</l>
+               <l>But this is Labour too:—A Work immence,</l>
+               <l>Excentrick from the ſcope of Human Sence.</l>
+            </lg>
+            <lg>
+               <l>What fit Words, ſuited ſymptoms, outward ſignes?</l>
+               <l>What marks, or what Characteriſtick Lines,</l>
+               <l>Can give the true Idea; And the Pain</l>
+               <l>Portray, the infant Globe did firſt ſuſtain,</l>
+               <lg>
+                  <l>(when tott'ring on the Hinges to and fro,</l>
+                  <l>
+                     <pb n="7" facs="tcp:93089:5"/>
+                     <!-- PDF PAGE 115 -->
+Thro' <hi>Adam</hi>'s guilty Crime that damn'd it ſo.)</l>
+                  <l>The nodding Weight ſway'd on the brink of Woe?</l>
+               </lg>
+               <l>They who that Can the ſame Diſorders trace,</l>
+               <l>May paint with equal Stroaks <hi>Brittania</hi>'s Caſe:</l>
+               <l>All other Drafts will elſe be weak and bare,</l>
+               <l>Nor reach the heightn'd Paſſions ſuffer'd here.</l>
+               <l>Nay! Now I fear beyond Compariſon</l>
+               <l>
+                  <hi>Maria</hi>'s Death, in the Effects brought on.</l>
+            </lg>
+            <lg>
+               <l>Lo! How a Chaos threat'ns its Return,</l>
+               <l>T' intomb within th' Abyſs of its own Urn</l>
+               <lg>
+                  <l>The Univerſal Machine:—See! The Light,</l>
+                  <l>How eager it precipitates its flight,</l>
+                  <l>And is ſcal'd o're with an Eternal Night.</l>
+               </lg>
+               <l>The Cruſted frame:—Look! Crumbles down; The Ball</l>
+               <l>Shrunk, at the News to ſenceleſs Atoms fall:</l>
+               <l>The Baſis fails; Both Poles and Axis Crack,</l>
+               <l>Th' Intelligences Faint, Their motions ſlack,</l>
+               <l>The toiling Orbs grown feeble heavy move,</l>
+               <l>
+                  <pb n="8" facs="tcp:93089:6"/>
+                  <!-- PDF PAGE 116 -->
+The Aſtral Pow'rs amaz'd at random rove,</l>
+               <l>Since Bleſt <hi>Maria</hi>'s gone, they careleſs roul:</l>
+               <l>Since great <hi>Maria's</hi> fall; who was the Soul</l>
+               <l>Of Nature, and whoſe Virtues did Cement,</l>
+               <l>Th' intrinſick Concord in each Element.</l>
+            </lg>
+            <lg>
+               <l>Could Death's tyrannick force extend ſo far,</l>
+               <l>To Crop the Radix of the World in her?</l>
+               <l>An Emperour (th' Infernall Pit's chief brood,</l>
+               <l>More fat than other Monſtrous Feinds with blood.)</l>
+               <l>Once wiſh'd his Anger ſtrong enough to doom</l>
+               <l>A ſingle Blow, that ſhould disbowell <hi>Rome:</hi>
+               </l>
+               <l>He limited revenge, Confin'd his Hate</l>
+               <l>One City's Ruine might him Satiate.</l>
+               <l>But this Grim Monarchs ſudden Avarice,</l>
+               <l>Ha's ſupermounted That, His Artifice</l>
+               <l>His ravinous Palate by one meal in groſs,</l>
+               <l>Hath quite Deſtroy'd whole Nations <hi>Genius;</hi>
+               </l>
+               <l>And all confus'd decay: Unleſs <hi>Naſſaw</hi>
+               </l>
+               <l>
+                  <pb n="9" facs="tcp:93089:6"/>
+                  <!-- PDF PAGE 116 -->
+The pious Trouble for <hi>Maria</hi> awe:</l>
+               <l>Our <hi>Roſes</hi> fade, The <hi>Cambrian</hi> Feathers pale,</l>
+               <l>The <hi>Thiſtles</hi> their low heads ſupinely drail,</l>
+               <lg>
+                  <l>
+                     <hi>Batavia's</hi> Lyon reels the <hi>Eagle</hi> droops,</l>
+                  <l>And trembling Spain beneath the burthen ſtoops,</l>
+                  <l>Untill thy Pleaſure ſhall revive their Troops.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Rouſe therefore mighty Prince, revert the Clouds</l>
+               <l>Diſpell the Miſts and black Cimaerian ſhrouds;</l>
+               <l>Tear thence the Stupifying Cypreſs boughs,</l>
+               <l>That twiſt their Paleneſs on thy Laurell'd brows;</l>
+               <l>Serene thy Aſpect with a Sober Mirth,</l>
+               <l>As fluſh'd thy dear <hi>Maria</hi>'s breathing Earth.</l>
+               <l>The Temper of the Climes are in Convulſe,</l>
+               <l>And ſwelling dangers puff up ev'ry Pulſe;</l>
+               <lg>
+                  <l>Their open Rifts for Comfort gape amain,</l>
+                  <l>Nor will they ſhut their dreadfull Wombs again,</l>
+                  <l>Till <hi>France</hi> repleat them with her Armies ſlain.</l>
+               </lg>
+               <l>And thou Heroick <hi>William</hi> muſt be He;</l>
+               <l>
+                  <pb n="10" facs="tcp:93089:7"/>
+                  <!-- PDF PAGE 117 -->
+If ought a Poet e're could Prophecie,</l>
+               <l>Or that his Prances can preſage events,</l>
+               <l>From paſt Tranſactions, preſent Accidents:</l>
+               <l>'Tis thy firm Hand together that muſt tye,</l>
+               <l>The broken Threads of <hi>Europe</hi>'s Deſtiny;</l>
+               <l>And root up the preſumptive Lilly'd Crown,</l>
+               <l>That urg'd thy Thunder and provok'd thy frown.</l>
+               <l>'Tis thou great <hi>William</hi> for our loſs and thine,</l>
+               <l>Muſt act the Scene of cold <hi>Irena's Boyne</hi>
+               </l>
+               <l>In <hi>Gallia</hi>'s reeking Gleebs: Whilſt to reward</l>
+               <l>Death's Inſolence, who no <hi>Maria</hi> ſpar'd;</l>
+               <l>Thy Foes ſhall dye ſo faſt, the thronging ſtore</l>
+               <l>Shall Choke, and ſurfeit Death for evermore.</l>
+               <l>Go, haſt the Criſis then, Anticipate the fear;</l>
+               <l>Let Death's Cataſtrophe begin the year,</l>
+               <l>And after may thy Monarchy command</l>
+               <l>The wide-extended Ocean and the Land;</l>
+               <l>Or for thy Conſorts life late took away</l>
+               <l>May Heav'ns add Seav'ns to thee and crown thy head with gray.</l>
+            </lg>
+            <lg>
+               <pb n="11" facs="tcp:93089:7"/>
+               <!-- PDF PAGE 117 -->
+               <l>How well <hi>Maria</hi> liv'd, Her conſtant Pray'rs</l>
+               <l>That Chain'd the bent <hi>Jehovah's</hi> liſtning Ears;</l>
+               <l>Her holy Flames, devout religious Fires;</l>
+               <l>Unſpotted Raptures and divine Deſires,</l>
+               <lg>
+                  <l>The Chaſt Devoirs that hung her Nuptial Bed;</l>
+                  <l>The frequent Alms her ſcatter'd bounty ſpread,</l>
+               </lg>
+               <l>Which with the Doner's now extinguiſhed:</l>
+               <l>The Sublime Meekneſs, decent Mercy ſeen;</l>
+               <l>The Symbols of a Godhead and a Queen;</l>
+               <l>Her mein Deportment and Majeſtick Grace,</l>
+               <l>The modeſt Smiles that beam'd her Orient Face,</l>
+               <l>Her Judgment, melting Language, Beautious form,</l>
+               <l>Her prompt diſcretion in a lowring Storm,</l>
+               <l>Her wit's large Magazines: How juſt ſhe ſway'd,</l>
+               <l>How much admir'd, how lov'd and how obey'd:</l>
+               <l>As thoſe Endowments boundleſs, did excell</l>
+               <l>Their Springs themſelves and grand Original:</l>
+               <l>Let Silence (the beſt Speaker) Comprehend,</l>
+               <l>For Tongues to apt Expreſſions cant aſcend.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
